@@ -1,0 +1,66 @@
+.navbar-nav{
+    margin-left: 50px !important;
+}
+.card{
+    margin-bottom: 10px !important;
+}
+body{
+    position: relative;
+    background-color: #ececec;
+}
+.cart-icon{
+    font-size: 16px;
+}
+.cart-count{
+    position: relative;
+    background-color: #f9534f;
+    top: -10px;
+    left: -5px;
+}
+.color-danger{
+    color: #f9534f;
+}
+.item-count-input{
+    width: 50px;
+    text-align: center;
+}
+td{
+    vertical-align: middle !important;
+}
+tfoot th{
+    padding: 20px !important;
+    background-color: #dfdfdf !important;
+}
+table{
+    box-shadow: 0 0 8px rgba(5,5,5, .3);
+}
+.foto{
+    height: 100px;
+    width: 80% !important;
+    margin-left:30px;
+}
+.text-right{
+    float: right;
+}
+.nav-link{
+    color: #fff !important;
+}
+footer{
+    margin-top: 20px;
+}
+footer hr{
+    width:80%; 
+    margin: auto;
+    margin-bottom: 20px;
+}
+.basket{
+    width: 30px;
+}
+.dropdown{
+    position: relative;
+    right: 50px;
+}
+.dropdown-menu{
+    position: absolute;
+    right: 50px;
+}
